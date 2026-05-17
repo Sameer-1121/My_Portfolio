@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Sameer's Portfolio
 
 A cinematic, fully animated React portfolio built with Vite.
@@ -127,6 +126,6 @@ Type the Konami Code on any page:
 1. `npm run build`
 2. Drag the `dist/` folder to [netlify.com/drop](https://app.netlify.com/drop)
 =======
-# My_Portfolio
+
 This is my portfolio. A brief description of mine.
 >>>>>>> 249046fa5a2e794c0c64e3ceef185c860bd6639f
